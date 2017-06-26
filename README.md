@@ -6,7 +6,7 @@ Posts data to TP Link cloud API and gathers information about your account / dev
 
 Make sure [composer](https://getcomposer.org/download/) is installed and use `php composer.phar install` to install the dependancies. Run a local server of your choice or upload to web server.
 
-Copy `inc.config.sample.php` and renamed to `inc.config.php` and replace the variables with your own.
+Copy `inc.config.sample.php` and rename it to `inc.config.php` and replace the variables with your own.
 
 ## Example Requests
 
