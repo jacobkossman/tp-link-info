@@ -38,3 +38,6 @@ Use the follow JSON inside a POST request using your preferred method to the url
 ```
 
 Returns a huge list, the info you want is `result->responseData->system->get_sysinfo->relay_state`
+
+
+#### Credits: [IT Nerd Space](http://itnerd.space/) for the insights into the API.
